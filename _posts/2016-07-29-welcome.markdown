@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Welcome to my blog!"
+date:   2016-07-29 12:53:31 +0800
+categories: jekyll update
+---
+hi, there, this is my first blog to mark a big start. thanks for coming, have a nice day!
+
+{% highlight ruby %}
+def print_hi(name)
+  puts "Hi, #{name}"
+end
+print_hi('Tom')
+#=> prints 'Hi, Tom' to STDOUT.
+{% endhighlight %}
+
+
